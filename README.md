@@ -22,4 +22,4 @@
 
 ## 📫 Connect With Me
 
-- LinkedIn: linkedin.com/in/vineet18
+- LinkedIn: https://www.linkedin.com/in/vineet18/
