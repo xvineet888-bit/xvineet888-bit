@@ -30,10 +30,10 @@ I'm a Computer Science student interested in software development and building p
 
 ## 🚀 Featured Projects
 
-### [MealMate](https://github.com/xvineet888-bit/MealMate)
-A platform connecting customers with local tiffin providers and home cooks, making it easier to discover home-cooked meal services.
+### [MealMate](https://meal-mate-mu-six.vercel.app/) 
+A web platform connecting users with local tiffin services and home cooks. Users can explore meal options, compare pricing, and discover cooking services.
 
-**Tech:** TypeScript
+**Live Demo:** [Visit MealMate](https://meal-mate-mu-six.vercel.app/)
 
 ### [Face Identification System](https://github.com/xvineet888-bit/Facial-Recognition-System)
 A Python-based face identification application featuring a Flask dashboard, image recognition, webcam recognition, and recognition history.
