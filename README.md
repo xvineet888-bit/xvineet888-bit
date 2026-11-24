@@ -1,32 +1,56 @@
 # Hi, I'm Vineet Yadav 👋
 
-### Computer Science Student | Aspiring Developer
+### Computer Science Student | Full-Stack Developer
 
-- 🎓 Final Year Computer Science Student
-- 💻 Interested in Web Development
-- 🌱 Currently improving my programming skills
-- 🔭 Working on academic and personal project
+I'm a Computer Science student interested in software development and building practical applications. I enjoy working with web technologies, Python, and database-driven projects while continuously improving my development skills.
 
+- 🎓 Computer Science background
+- 💻 Interested in Full-Stack Development
+- 🔍 Exploring Computer Vision and Software Development
+- 🌱 Learning by building and improving projects
 
 ## 🛠️ Technologies & Tools
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+**Languages**
+- Python
+- PHP
+- JavaScript
+- HTML & CSS
 
+**Frameworks & Libraries**
+- Flask
+- OpenCV
+- Tailwind CSS
+- Chart.js
 
-## 🚀 Projects
+**Databases & Tools**
+- MySQL
+- SQLite
+- Git & GitHub
 
-- Smart College Attendance & Analytics System
-- Face Recognition System
-- FitnessPro
+## 🚀 Featured Projects
+
+### [MealMate](https://github.com/xvineet888-bit/MealMate)
+A platform connecting customers with local tiffin providers and home cooks, making it easier to discover home-cooked meal services.
+
+**Tech:** TypeScript
+
+### [Face Identification System](https://github.com/xvineet888-bit/Facial-Recognition-System)
+A Python-based face identification application featuring a Flask dashboard, image recognition, webcam recognition, and recognition history.
+
+**Tech:** Python, Flask, OpenCV, dlib, NumPy
+
+### FitnessPro
+A full-stack fitness platform with workout tracking and nutrition-related features.
+
+**Tech:** PHP, MySQL, JavaScript, Tailwind CSS
+
+### Smart College Attendance & Analytics System
+An academic project focused on digital attendance management and attendance analytics.
+
+**Tech:** PHP, MySQL, JavaScript, Chart.js
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/vineet18/
-  
-
+- LinkedIn: [Vineet Yadav](https://www.linkedin.com/in/vineet18/)
+- GitHub: [@xvineet888-bit](https://github.com/xvineet888-bit)
